@@ -1,0 +1,5 @@
+opencv-python
+pyserial
+pandas
+adafruit-io
+python-telegram-bot
